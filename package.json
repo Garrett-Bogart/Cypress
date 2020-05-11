@@ -1,0 +1,15 @@
+{
+  "main": "index.js",
+  "repository": "https://github.com/Garrett-Bogart/Cypress",
+  "author": "Garrett Bogart",
+  "dependencies": {
+    "jest": "latest"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "cypress": "^4.5.0"
+  }
+}
